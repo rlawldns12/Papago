@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+div.head{
+    width: 186.3vh;
+    height: 4.5vw;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px solid #bcbcbc;
+
+}
+.Translator{
+    color:black;
+    text-decoration-line: none;
+}
+.Translator:hover{
+    color: #1DDB16;
+}
